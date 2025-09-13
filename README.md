@@ -84,28 +84,9 @@
   <div class="pattern"></div>
   <div class="overlay">
     <h1>Vous êtes invités à notre mariage !</h1>
-    <p>Saad & [NIAMA]</p>
-    <p>Le 14 Septembre 2025 . 20H00  à [VILLA BENSAMMOU BOUSKOURA ]</p>
+    <p>Saad & NIAMA </p>
+    <p>Le 14 Septembre 2025 / 20H00  à VILLA BENSAMMOU BOUSKOURA </p>
     <a href="https://maps.app.goo.gl/qygZ64TZWfqAXfBb6?g_st=ic" class="btn" target="_blank">Voir le lieu sur la carte</a>
-    <br><br>
-    <button class="btn" onclick="toggleMusic()">🎵 Jouer / Pause Musique</button>
   </div>
-
-  <!-- Musique -->
-  <audio id="music" loop>
-    <source src="musique-mariage.mp3" type="audio/mpeg">
-    Votre navigateur ne supporte pas la lecture audio.
-  </audio>
-
-  <script>
-    const music = document.getElementById('music');
-    function toggleMusic() {
-      if (music.paused) {
-        music.play();
-      } else {
-        music.pause();
-      }
-    }
-  </script>
 </body>
 </html>
