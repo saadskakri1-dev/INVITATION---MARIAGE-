@@ -84,8 +84,8 @@
   <div class="pattern"></div>
   <div class="overlay">
     <h1>Vous êtes invités à notre mariage !</h1>
-    <p>Saad & [Nom de votre partenaire]</p>
-    <p>Le 14 Septembre 2025 à [Lieu de la cérémonie]</p>
+    <p>Saad & [NIAMA]</p>
+    <p>Le 14 Septembre 2025 . 20H00  à [VILLA BENSAMMOU BOUSKOURA ]</p>
     <a href="https://maps.app.goo.gl/qygZ64TZWfqAXfBb6?g_st=ic" class="btn" target="_blank">Voir le lieu sur la carte</a>
     <br><br>
     <button class="btn" onclick="toggleMusic()">🎵 Jouer / Pause Musique</button>
